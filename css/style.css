@@ -7877,7 +7877,6 @@ h1, h2, h3, h4, h5,
       margin-left: -150px;
       padding: 40px;
       background:rgba(0, 6, 43, 0.5); } }
-
 .ftco-services {
   color: #1d150b;
   background: #c49b63; }
@@ -8788,14 +8787,13 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center right; }
+  background-position: center center; }
 
 
 @media (max-width: 767.98px) {
   .img-about {
     height: 400px;
     margin-bottom: 30px; } }
-
 .image-popup {
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
