@@ -8778,9 +8778,10 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center right; }
+
 
 @media (max-width: 767.98px) {
   .img-about {
