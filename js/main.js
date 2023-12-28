@@ -3,6 +3,8 @@
  	easing: 'slide'
  });
 
+
+
 (function($) {
 
 	"use strict";
@@ -98,6 +100,7 @@
 
 	};
 	carousel();
+	
 
 	$('nav .dropdown').hover(function(){
 		var $this = $(this);
@@ -118,11 +121,7 @@
 		// }, 100);
 	});
 
-
-	$('#dropdown04').on('show.bs.dropdown', function () {
-	  console.log('show');
-	});
-
+ 
 	// scroll
 	var scrollWindow = function() {
 		$(window).scroll(function(){
@@ -310,6 +309,5 @@ document.getElementById('popup').addEventListener('click', function(event) {
 	});
  
 
- 
 
  
