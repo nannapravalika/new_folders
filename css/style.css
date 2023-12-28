@@ -7635,7 +7635,7 @@ h1, h2, h3, h4, h5,
         z-index: 1;
         
         color: #fff;
-        height: 750px;
+        height: 600px;
         text-align: right; }
         @media (min-width: 992px) {
           .owl-carousel.home-slider .slider-item .slider-text .order-md-last {
@@ -7648,7 +7648,7 @@ h1, h2, h3, h4, h5,
             z-index: 0; }
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center;
-            height: 500px;
+            height: 400px;
             
           } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
