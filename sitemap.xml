@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+     <!-- Homepage -->
+    <url>
+        <loc>http://www.aviacons.org/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Page 1 -->
+    <url>
+        <loc>https://www.aviacons.org/about_us</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 2 -->
+    <url>
+        <loc>https://www.aviacons.org/gallery</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 3 -->
+    <url>
+        <loc>https://www.aviacons.org/ground-school</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 4 -->
+    <url>
+        <loc>https://www.aviacons.org/flight-school</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 5 -->
+    <url>
+        <loc>https://www.aviacons.org/communication-school</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 6 -->
+    <url>
+        <loc>https://www.aviacons.org/train-the-trainer</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 7 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/PPL-Ground-Classes</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+
+    <!-- Page 8 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/CPL-Ground-Classes</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+
+    <!-- Page 9 -->
+     <url>
+        <loc>https://www.aviacons.org/courses/Airline-Prep-Classes</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+
+    <!-- Page 10 -->
+   <url>
+        <loc>https://www.aviacons.org/courses/ATPL-Ground-Classes</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+     <!-- Page 11 -->
+     <url>
+        <loc>https://www.aviacons.org/courses/Private-Pilot-Licence</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+   
+    <!-- Page 12 -->
+     <url>
+        <loc>https://www.aviacons.org/courses/Commercial-Pilot-Licence</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 13 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/Type-Rating-and-Other-Courses</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 14 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/rtr-classes</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 15 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/AELP-Training</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 16 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/AELP-Testing-(Initial)</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 17 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/AELP-Testing-(Renewal)</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 18 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/Recurrent-Training-for-AELP-raters/Interlocutors</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 19 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/Indoctrination-Training-For-Language-Trainers</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 20 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/Rater-Course</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+     <!-- Page 21 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/Interlocutors-Course</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 22 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 23 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-2</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 24 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single1</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 25 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single2</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 26 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single3</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 27 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single4</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 28 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single5</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 29 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single6</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 30 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single7</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 31 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single8</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 32 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single9</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 33 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single10</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Page 34 -->
+    <url>
+        <loc>https://www.aviacons.org/courses/blog-single11</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+
+</urlset>
+
+ 
